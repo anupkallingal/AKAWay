@@ -1,6 +1,6 @@
-"# AKAWay" 
+AKAWay
 ==========
-A repository to store all my experimental and research project. 
+A repository to store all my experimental and research projects. 
 
 Plan to maintain the following structure at the root of this repository:
 * Projects
